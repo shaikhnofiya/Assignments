@@ -1,0 +1,11 @@
+C:\Users\Shree\source\repos\inheritance\inheritance\bin\Debug\netcoreapp2.1\inheritance.deps.json
+C:\Users\Shree\source\repos\inheritance\inheritance\bin\Debug\netcoreapp2.1\inheritance.runtimeconfig.json
+C:\Users\Shree\source\repos\inheritance\inheritance\bin\Debug\netcoreapp2.1\inheritance.runtimeconfig.dev.json
+C:\Users\Shree\source\repos\inheritance\inheritance\bin\Debug\netcoreapp2.1\inheritance.dll
+C:\Users\Shree\source\repos\inheritance\inheritance\bin\Debug\netcoreapp2.1\inheritance.pdb
+C:\Users\Shree\source\repos\inheritance\inheritance\obj\Debug\netcoreapp2.1\inheritance.csprojAssemblyReference.cache
+C:\Users\Shree\source\repos\inheritance\inheritance\obj\Debug\netcoreapp2.1\inheritance.csproj.CoreCompileInputs.cache
+C:\Users\Shree\source\repos\inheritance\inheritance\obj\Debug\netcoreapp2.1\inheritance.AssemblyInfoInputs.cache
+C:\Users\Shree\source\repos\inheritance\inheritance\obj\Debug\netcoreapp2.1\inheritance.AssemblyInfo.cs
+C:\Users\Shree\source\repos\inheritance\inheritance\obj\Debug\netcoreapp2.1\inheritance.dll
+C:\Users\Shree\source\repos\inheritance\inheritance\obj\Debug\netcoreapp2.1\inheritance.pdb

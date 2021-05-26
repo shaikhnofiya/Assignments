@@ -1,0 +1,10 @@
+C:\Users\Shree\source\repos\MasterdetailsCRUDAPP\MasterdetailsCRUDAPP\bin\Debug\MasterdetailsCRUDAPP.exe.config
+C:\Users\Shree\source\repos\MasterdetailsCRUDAPP\MasterdetailsCRUDAPP\bin\Debug\MasterdetailsCRUDAPP.exe
+C:\Users\Shree\source\repos\MasterdetailsCRUDAPP\MasterdetailsCRUDAPP\bin\Debug\MasterdetailsCRUDAPP.pdb
+C:\Users\Shree\source\repos\MasterdetailsCRUDAPP\MasterdetailsCRUDAPP\obj\Debug\MasterdetailsCRUDAPP.csprojAssemblyReference.cache
+C:\Users\Shree\source\repos\MasterdetailsCRUDAPP\MasterdetailsCRUDAPP\obj\Debug\MasterdetailsCRUDAPP.Form1.resources
+C:\Users\Shree\source\repos\MasterdetailsCRUDAPP\MasterdetailsCRUDAPP\obj\Debug\MasterdetailsCRUDAPP.Properties.Resources.resources
+C:\Users\Shree\source\repos\MasterdetailsCRUDAPP\MasterdetailsCRUDAPP\obj\Debug\MasterdetailsCRUDAPP.csproj.GenerateResource.cache
+C:\Users\Shree\source\repos\MasterdetailsCRUDAPP\MasterdetailsCRUDAPP\obj\Debug\MasterdetailsCRUDAPP.csproj.CoreCompileInputs.cache
+C:\Users\Shree\source\repos\MasterdetailsCRUDAPP\MasterdetailsCRUDAPP\obj\Debug\MasterdetailsCRUDAPP.exe
+C:\Users\Shree\source\repos\MasterdetailsCRUDAPP\MasterdetailsCRUDAPP\obj\Debug\MasterdetailsCRUDAPP.pdb

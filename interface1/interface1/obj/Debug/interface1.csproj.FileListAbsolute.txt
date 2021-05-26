@@ -1,0 +1,7 @@
+C:\Users\Shree\source\repos\interface1\interface1\obj\Debug\interface1.csprojAssemblyReference.cache
+C:\Users\Shree\source\repos\interface1\interface1\obj\Debug\interface1.csproj.CoreCompileInputs.cache
+C:\Users\Shree\source\repos\interface1\interface1\bin\Debug\interface1.exe.config
+C:\Users\Shree\source\repos\interface1\interface1\bin\Debug\interface1.exe
+C:\Users\Shree\source\repos\interface1\interface1\bin\Debug\interface1.pdb
+C:\Users\Shree\source\repos\interface1\interface1\obj\Debug\interface1.exe
+C:\Users\Shree\source\repos\interface1\interface1\obj\Debug\interface1.pdb
